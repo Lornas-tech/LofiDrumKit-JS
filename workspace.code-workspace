@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lofidrumkit",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../Lofi Drum Kit-JS/sounds"
+		}
+	],
+	"settings": {}
+}
